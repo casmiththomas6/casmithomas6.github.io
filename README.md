@@ -14,11 +14,11 @@
 3. Coding
 
 ###Academics  
-1. Math  
+* Math  
   * Some parts of Calculus
-2. Certain Sciences  
+* Certain Sciences  
   * Not including Chemistry
-3. English
+* English
  
 ##Websites I Recommend  
 
