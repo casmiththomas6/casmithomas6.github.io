@@ -27,5 +27,6 @@
 on the site  
  
 * [Reddit](www.reddit.com)  
-  * This site is sometimes interesting and helpful because it can provide quick answers  
-for specific questions, and the many different communities 
+  * This site is sometimes interesting and helpful because it can provide quick answers    
+for specific questions, and there many different communities with similar interests that  
+people can join
