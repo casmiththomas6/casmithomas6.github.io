@@ -15,11 +15,11 @@
 
 ###Academics  
 * Math  
- * Some parts of Calculus
+  * Some parts of Calculus
 * Certain Sciences  
- * Not including Chemistry
+  * Not including Chemistry
 * English
- * One of my favorites 
+  * One of my favorites 
  
 ##Websites I Recommend  
 
