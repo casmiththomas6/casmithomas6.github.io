@@ -15,14 +15,15 @@
 
 ###Academics  
 * Math  
-  * Some parts of Calculus
+ * Some parts of Calculus
 * Certain Sciences  
-  * Not including Chemistry
+ * Not including Chemistry
 * English
+ * One of my favorites 
  
 ##Websites I Recommend  
 
-* [Youtube](www.youtube.com)   
+* [Youtube](www.youtube.com)     
   * This site is very interesting because of the large amount of content that can be watched  
 on the site  
  
