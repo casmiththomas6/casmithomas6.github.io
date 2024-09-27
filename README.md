@@ -15,17 +15,17 @@
 
 ###Academics  
 1. Math
- *Some parts of Calculus
+ * Some parts of Calculus
 2. Certain Sciences
- *Not including Chemistry
+ * Not including Chemistry
 3. English
  
 ##Websites I Recommend  
 
-*[Youtube](www.youtube.com)  
+* [Youtube](www.youtube.com)  
  *This site is very interesting because of the large amount of content that can be watched  
 on the site  
  
-*[Reddit](www.reddit.com) 
- *This site is sometimes interesting and helpful because it can provide quick answers  
+* [Reddit](www.reddit.com) 
+ * This site is sometimes interesting and helpful because it can provide quick answers  
 for specific questions, and the many different communities 
